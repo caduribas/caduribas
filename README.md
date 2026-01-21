@@ -44,13 +44,3 @@ leading a team of five soldiers.
 | **8+ Years** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)                                                                                                                                                                                                                                           |
 | **5+ Years** | ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white) ![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white) ![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=flat-square&logo=terraform&logoColor=white) ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)              |
 | **2+ Years** | ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi&logoColor=white) ![Celery](https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white)                                                                                                                                                                                                                                                                                                                                            |
-
-## 🎓 Education
-- **Master of Science** - University of São Paulo (USP)
-- **Specialization in Software Technology** - University of São Paulo (USP)
-- **Specialization in Networks and Systems Security** - PUCPR
-- **B.S. in Systems Analysis** - PUCPR
-
-## 📫 Let's Connect
-- **LinkedIn**: [linkedin.com/in/caduribas](https://linkedin.com/in/caduribas)
-- **Email**: [caduribas@gmail.com](mailto:caduribas@gmail.com)
