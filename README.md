@@ -14,8 +14,8 @@ account available at [github.com/carlosribas](https://github.com/carlosribas).
   
 ## 👨‍💻 Professional Experience
 Responsible for the complete Software Development Life Cycle (SDLC) in my most recent roles at both the 
-**European Bioinformatics Institute (EMBL-EBI)** and **NeuroMat (University of São Paulo)**, delivering high-performance
-applications and scalable infrastructure to support scientific research.
+**European Bioinformatics Institute - EMBL-EBI (Cambridge - UK)** and **NeuroMat (University of São Paulo - Brazil)**, 
+delivering high-performance applications and scalable infrastructure to support scientific research.
 
 ### Key highlights:
 - **Performance Engineering**: Optimized the *Sequence Search* tool, achieving a **20-fold increase in speed** 
