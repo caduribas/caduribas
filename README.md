@@ -3,6 +3,9 @@
 I am a **Full Stack Software Developer** with over 15 years of experience building high-performance applications and 
 managing scalable infrastructure. My work bridges the gap between complex data science and robust software engineering.
 
+> **Note:** Most of my open-source projects and contribution history from 2014 to 2025 are hosted on my previous GitHub
+account available at [github.com/carlosribas](https://github.com/carlosribas).
+
 ## 🌍 Personal Background
 * **Dual Citizenship**: 🇧🇷 Brazil & 🇬🇧 United Kingdom
 * **Languages**: 
