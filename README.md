@@ -1,6 +1,6 @@
 # Hi there, I'm Carlos 👋
 
-I am a **Full Stack Software Developer** with over 15 years of experience building high-performance applications and 
+I am a **Full-Stack Software Developer** with over 15 years of experience building high-performance applications and 
 managing scalable infrastructure. My work bridges the gap between complex data science and robust software engineering.
 
 > **Note:** Most of my open-source projects and contribution history from 2014 to 2025 are hosted on my previous GitHub
@@ -14,13 +14,13 @@ account, available at [github.com/carlosribas](https://github.com/carlosribas).
   
 ## 👨‍💻 Professional Experience
 Responsible for the complete Software Development Life Cycle (SDLC) in my most recent roles at both the 
-**European Bioinformatics Institute - EMBL-EBI (Cambridge - UK)** and **NeuroMat (University of São Paulo - Brazil)**, 
+**European Bioinformatics Institute – EMBL-EBI (Cambridge, UK)** and **NeuroMat (University of São Paulo, Brazil)**, 
 delivering high-performance applications and scalable infrastructure to support scientific research.
 
 ### Key highlights:
-- **Performance Engineering**: Optimized the *Sequence Search* tool, achieving a **20-fold increase in speed** 
+- **Performance Engineering**: Optimised the *Sequence Search* tool, achieving a **20-fold increase in speed** 
 (reducing search times from 4.5 minutes to 13 seconds).
-- **Cloud Infrastructure**: Led the migration of RNAcentral to **Kubernetes**, utilizing Docker and automated 
+- **Cloud Infrastructure**: Led the migration of RNAcentral to **Kubernetes**, utilising Docker and automated 
 **CI/CD pipelines** (GitHub/GitLab) for enhanced scalability.
 - **Data Integration**: Developed **LitScan**, a **NextFlow** pipeline that links RNA sequences with open-access 
 scientific literature from Europe PMC.
